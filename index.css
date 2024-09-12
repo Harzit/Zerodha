@@ -1,0 +1,26 @@
+.downside {
+    display: flex;
+    justify-content:center;
+}
+
+.righty {
+    width: 432.66px;
+    padding-right: 60px;
+}
+
+.headings {
+    font-size: 40px; 
+    font-weight: 100;
+}
+
+.headinger {
+    font-size: 25px; 
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+.texter {
+    margin: 0;
+    font-weight: 100;
+    font-size: 19px;
+}
